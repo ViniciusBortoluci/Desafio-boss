@@ -1,5 +1,7 @@
 const nomeHeroi = "Javaman";
 let xpHeroi = 0; //Coloque o XP do heroi
+
+
 let nivelHeroi = ["Ferro", "Bronze", "Prata", "Ouro", "Platina", "Ascendente", "Imortal", "Radiante"];
 
 if (xpHeroi <= 1000) {
